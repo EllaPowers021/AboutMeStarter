@@ -22,7 +22,7 @@ public class AboutMe {
        
         // Print the new values
         System.out.println("Some time passes...");
-        System.out.println(" I am now " + myAge + " years old.");
-        System.out.println(" I have grown and am " + myHeightInMetres + " m tall.");
+        System.out.println("I am now " + myAge + " years old.");
+        System.out.println("I have grown and am " + myHeightInMetres + " m tall.");
     }
 }
