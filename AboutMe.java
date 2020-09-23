@@ -1,6 +1,6 @@
 /*
  * Programmer:Ella Powers
- * Date:September 22, 2020
+ * Date:September 23, 2020
  * Purpose:Learning about me
  */
 
@@ -20,10 +20,9 @@ public class AboutMe {
         myAge = 17;
         myHeightInMetres = 157.23;
        
-
-         // Print the new values
+        // Print the new values
         System.out.println("Some time passes...");
-       System.out.println(" I am now " + myAge + " years old.");
-       System.out.println(" I have grown and am " + myHeightInMetres + " m tall.");
+        System.out.println(" I am now " + myAge + " years old.");
+        System.out.println(" I have grown and am " + myHeightInMetres + " m tall.");
     }
 }
